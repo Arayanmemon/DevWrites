@@ -15,3 +15,42 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: normal;
+  line-height: 1.2;
+}
+
+/* Specific styles for each heading level */
+
+/* h1 */
+h1 {
+  font-size: 2rem; /* You can adjust the font size as needed */
+  text-align: center;
+}
+
+/* h2 */
+h2 {
+  font-size: 1.5rem; /* You can adjust the font size as needed */
+}
+
+/* h3 */
+h3 {
+  font-size: 1.17rem; /* You can adjust the font size as needed */
+}
+
+/* h4 */
+h4 {
+  font-size: 1rem; /* You can adjust the font size as needed */
+}
+
+/* h5 */
+h5 {
+  font-size: 0.83rem; /* You can adjust the font size as needed */
+}
+
+/* h6 */
+h6 {
+  font-size: 0.67rem; /* You can adjust the font size as needed */
+}
